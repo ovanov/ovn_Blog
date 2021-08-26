@@ -1,0 +1,97 @@
+body {
+  background: #ffffff;
+  color: #333333;
+  margin-top: 5rem;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #444444;
+}
+
+.bg-steel {
+  background-color: #222222;
+}
+
+.site-header .navbar-nav .nav-link {
+  color: #cccccc;
+  transition: 0.5s
+}
+
+.site-header .navbar-nav .nav-link:hover {
+  color: #ffffff;
+  text-shadow: 0 0 5px #cccccc;
+}
+
+.site-header .mr-4 {
+  color: #f7f7f7;
+  transition: 0.1s;
+}
+
+.site-header .mr-4:hover {
+    color: #ffffff;
+    text-shadow: 0 0 1px #ffffff;
+}
+
+.site-header .navbar-nav .nav-link.active {
+  font-weight: 500;
+}
+
+.content-section {
+  background: #eeeeee;
+  padding: 10px 20px;
+  border: 2px solid #dddddd;
+  border-radius: 7px;
+  margin-bottom: 20px;
+}
+
+.article-title {
+  color: #444444;
+  transition: 0.2s
+}
+
+a.article-title:hover {
+  color: #aaaaaa;
+  text-decoration: none;
+  text-shadow: 0 0 0px #aaaaaa;
+}
+
+.article-content {
+  white-space: pre-line;
+}
+
+.article-img {
+  height: 65px;
+  width: 65px;
+  margin-right: 16px;
+}
+
+.article-metadata .mr-2 {
+  color: #aaaaaa;
+  padding-bottom: 1px;
+  margin-bottom: 4px;
+  border-bottom: 1px solid #e3e3e3;
+  transition: 0.2s;
+}
+
+.article-metadata a:hover {
+  color: #111111;
+  text-decoration: none;
+  text-shadow: 0 0 2px #aaaaaa;
+}
+
+.article-svg {
+  width: 25px;
+  height: 25px;
+  vertical-align: middle;
+}
+
+.account-img {
+  height: 125px;
+  width: 125px;
+  margin-right: 20px;
+  margin-bottom: 16px;
+}
+
+.account-heading {
+  font-size: 2.5rem;
+}
