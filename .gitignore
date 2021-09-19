@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+#databases
+*.db
+votr.py
+flaskblog/static/profile_pics
