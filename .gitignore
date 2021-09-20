@@ -133,3 +133,4 @@ dmypy.json
 *.db
 votr.py
 flaskblog/static/profile_pics
+flaskblog/site.db
